@@ -1,0 +1,28 @@
+{
+  "name": "ahdcreative/ahdcs",
+  "description": "PHP_CodeSniffer for AHDCreative Projects",
+  "keywords": [
+    "phpcs",
+    "standards",
+    "static analysis",
+    "wordpress",
+    "ahdcreative"
+  ],
+  "homepage": "https://github.com/ahdcreative/ahdcs",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Team Dev of AHDCreative",
+      "email": "support@ahd-creative.agency",
+      "homepage": "https://ahd-creative.agency"
+    }
+  ],
+  "type": "phpcodesniffer-standard",
+  "support": {
+    "issues": "https://github.com/ahdcreative/ahdcs/issues/",
+    "source": "https;//github.com/ahdcreative/ahdcs"
+  },
+  "require": {
+    "php": ">=5.4"
+  }
+}
